@@ -22,7 +22,7 @@
         android:id="@+id/login"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:fontFamily="@font/alata"
+
         android:text="Login"
         android:textColor="#FFFFFF"
         android:textSize="50sp"
@@ -42,7 +42,7 @@
         android:text="Here"
         android:textColor="#fff"
         android:textSize="30sp"
-        android:fontFamily="@font/alata"
+
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -58,7 +58,7 @@
         android:layout_height="51dp"
         android:background="@drawable/login_bg"
         android:ems="10"
-        android:fontFamily="@font/alata"
+
         android:hint="Email:"
         android:inputType="textEmailAddress"
         android:paddingLeft="20dp"
@@ -83,7 +83,7 @@
         android:layout_height="51dp"
         android:background="@drawable/login_bg"
         android:ems="10"
-        android:fontFamily="@font/alata"
+
         android:hint="Password:"
         android:inputType="numberPassword"
         android:paddingLeft="20dp"
@@ -105,7 +105,7 @@
         android:layout_width="232dp"
         android:layout_height="47dp"
         android:layout_marginTop="9dp"
-        android:fontFamily="@font/alata"
+
         android:text="Forgot Password?"
         android:textAlignment="textEnd"
         android:textColor="#fff"
@@ -125,7 +125,7 @@
         android:layout_height="59dp"
         android:backgroundTint="#46000000"
 
-        android:fontFamily="@font/alata"
+
         android:text="Login"
         android:textColor="#FFFFFF"
         android:textSize="19sp"
@@ -145,7 +145,7 @@
         android:id="@+id/createnewaccount"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:fontFamily="@font/alata"
+
         android:text="Create New Account"
         android:textAlignment="center"
         android:textColor="#fff"
