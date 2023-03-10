@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1026604271951",
+    "project_id": "shetkari-seva-firebase",
+    "storage_bucket": "shetkari-seva-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026604271951:android:97d7aa4ed71c46dd70dd3a",
+        "android_client_info": {
+          "package_name": "com.example.shetkariseva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026604271951-59u4pcn11lm0unfl14ebm4b3mvrgv3rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWztbdN2fK36hWocvsWhMEqPvHb3Gvr50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026604271951-59u4pcn11lm0unfl14ebm4b3mvrgv3rc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
